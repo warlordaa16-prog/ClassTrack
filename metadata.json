@@ -1,0 +1,11 @@
+{
+  "name": "ClassTrack QR Attendance System",
+  "description": "Comprehensive institutional smart attendance management platform with independent role-based dashboards (Student, Academic Coordinator, and Institutional Administrator), dynamic rotating QR code attendance sessions, real-time check-in monitoring, geolocation proximity validation, offline sync, attendance threshold warnings, and forensic audit reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
